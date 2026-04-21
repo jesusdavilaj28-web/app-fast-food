@@ -15,4 +15,5 @@ jobs:
         with:
           name: MiAppInstalable
           path: bin/*.apk
+
           
